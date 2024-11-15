@@ -1,4 +1,3 @@
-<div align="center"> <img src="" alt="Banner" style="width: 100%" /> </div>
 <div align="center">👋 Hi, I'm Aleksandr Tiutiunnik 🚀</div>
 <div align="center"> Motivated Backend Developer skilled in C# and .NET Core. Passionate about building scalable and efficient applications, improving my coding skills, and collaborating with teams to deliver impactful solutions. </div>
   

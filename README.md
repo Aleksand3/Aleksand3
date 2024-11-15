@@ -5,8 +5,6 @@
 <br/>  
 
 
-## My Skill Set  
-
 ### Skills  
 <div align="center">  
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
@@ -51,21 +49,4 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Aleksand3&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
 

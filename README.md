@@ -31,10 +31,10 @@
 <a href="https://github.com/Aleksand3" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/http://instagram.com/alexsandr_tyutyunnik" target="_blank">
+<a href="https://instagram.com/alexsandr_tyutyunnik" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D1%82%D1%8E%D1%82%D1%8E%D0%BD%D0%BD%D0%B8%D0%BA-84b086270/" target="_blank">
+<a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D1%82%D1%8E%D1%82%D1%8E%D0%BD%D0%BD%D0%B8%D0%BA-84b086270/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  

@@ -1,5 +1,5 @@
 <div align="center">👋 Hi, I'm Aleksandr Tiutiunnik 🚀</div>
-<div align="center"> Motivated Backend Developer skilled in C# and .NET Core. Passionate about building scalable and efficient applications, improving my coding skills, and collaborating with teams to deliver impactful solutions. </div>
+<div align="center"> I'm an enthusiastic and detail-oriented Backend Software Engineer seeking an entry-level position with Company to use my skills in coding, troubleshooting complex problems, and assisting in the timely completion of projects. </div>
   
 
 <br/>  
